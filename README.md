@@ -2,7 +2,6 @@
 
 ### Here I have uploaded my Power BI sales insights project. 
 <br/>
-#
 
 ## Power BI User Interface: (Whole Years Report)
 ![1](https://user-images.githubusercontent.com/50451175/92099294-ebb8da80-ee0c-11ea-942d-7603fdabe845.PNG)
